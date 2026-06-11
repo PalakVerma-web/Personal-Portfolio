@@ -1,18 +1,21 @@
-**Palak Verma**
+# Palak Verma
 
-AI Engineer • Machine Learning Developer • Data Science Enthusiast
+### AI Engineer • Machine Learning Developer • Data Science Enthusiast
+
+[![Live Website](https://img.shields.io/badge/Live_Portfolio-Visit_Website-blue?style=for-the-badge)](https://palakverma-web.github.io/palak-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-PalakVerma--web-black?style=for-the-badge\&logo=github)](https://github.com/PalakVerma-web)
 
 A modern portfolio website showcasing my work in Artificial Intelligence, Machine Learning, Data Science, and Software Development.
 
-Live Demo
+## Live Demo
 
-🌐 Portfolio Website
+🌐 **Portfolio Website**
 
-https://palakverma-web.github.io/Personal-Portfolio/
+https://palakverma-web.github.io/palak-portfolio/
 
 ---
 
- Features
+## Features
 
 * Modern glassmorphism UI
 * Dark & Light mode support
@@ -28,26 +31,26 @@ https://palakverma-web.github.io/Personal-Portfolio/
 
 ---
 
- Tech Stack
+## Tech Stack
 
- Frontend
+### Frontend
 
 * HTML5
 * CSS3
 * JavaScript (ES6+)
 
- Libraries
+### Libraries
 
 * Three.js
 * Google Fonts
 
- Deployment
+### Deployment
 
 * GitHub Pages
 
 ---
 
- Project Structure
+## Project Structure
 
 ```text
 palak-portfolio/
@@ -64,7 +67,9 @@ palak-portfolio/
 └── README.md
 ```
 
- Deployment
+---
+
+## Deployment
 
 Clone the repository:
 
@@ -86,11 +91,11 @@ index.html
 
 ---
 
- About Me
+## About Me
 
 I am passionate about building intelligent systems that solve real-world problems using Artificial Intelligence, Machine Learning, and Data Science.
 
- Areas of Interest
+### Areas of Interest
 
 * Artificial Intelligence
 * Machine Learning
@@ -102,15 +107,17 @@ I am passionate about building intelligent systems that solve real-world problem
 
 ---
 
- GitHub
+## GitHub
 
 https://github.com/PalakVerma-web
 
 ---
- License
+
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
 ⭐ If you find this project useful, consider starring the repository.
+
