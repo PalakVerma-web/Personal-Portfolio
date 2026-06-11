@@ -1,4 +1,4 @@
-Palak Verma
+**Palak Verma**
 
 AI Engineer • Machine Learning Developer • Data Science Enthusiast
 
