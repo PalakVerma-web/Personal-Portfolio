@@ -2,7 +2,7 @@ Palak Verma
 
 AI Engineer • Machine Learning Developer • Data Science Enthusiast
 
-[![Live Website](https://img.shields.io/badge/Live_Portfolio-Visit_Website-blue?style=for-the-badge)](https://palakverma-web.github.io/Personal-Portfolio/)
+[![Live Website](https://palakverma-web.github.io/Personal-Portfolio/)]
 [![GitHub](https://img.shields.io/badge/GitHub-PalakVerma-web-black?style=for-the-badge\&logo=github)](https://github.com/PalakVerma-web)
 
 A modern portfolio website showcasing my work in Artificial Intelligence, Machine Learning, Data Science, and Software Development.
